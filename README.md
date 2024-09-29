@@ -14,9 +14,15 @@
 <br />
 
 <p align="center">
+<a href="https://www.linkedin.com/in/muh-arifulislam/" target="_blank">
 <img height="60px" width="60px" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/linkedin.png"/>
+<a/>
+<a href="https://www.facebook.com/muh.arifulislam/" target="_blank">
 <img height="60px" width="60px" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/facebook.png"/>
+<a/>
+<a href="https://x.com/muh_arifulislam" target="_blank">
 <img height="60px" width="60px" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/x.png"/>
+<a/>
 </p><br/>
 
 <br />
