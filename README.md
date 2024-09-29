@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muh-arifulislam&theme=react&hide_border=true&background=45%2CEBAD18%2CEBAD18" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=muh-arifulislam&theme=dark&sideNums=88EEF2&sideLabels=A2D5F2&dates=EBEBEB&ring=D4A5F9&fire=D4A5F9&currStreakNum=D4A5F9&currStreakLabel=D4A5F9" alt="GitHub Streak" />
 </p>
 
 ## :mailbox: Reach me out
