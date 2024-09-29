@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="60" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/linkedin.png">](https://www.linkedin.com/in/muh-arifulislam/)[<img height="60" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/facebook.png">](https://www.facebook.com/muh.arifulislam/)[<img height="60" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/x.png"> </p>](https://x.com/muh_arifulislam)
+[<p align="center"><img style="margin:20px" height="60" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/linkedin.png">](https://www.linkedin.com/in/muh-arifulislam/)[<img style="margin:20px" height="60" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/facebook.png">](https://www.facebook.com/muh.arifulislam/)[<img style="margin:20px" height="60" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/x.png"> </p>](https://x.com/muh_arifulislam)
 
 <br />
 
