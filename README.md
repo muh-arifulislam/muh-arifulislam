@@ -9,12 +9,11 @@
 <img src="https://streak-stats.demolab.com?user=muh-arifulislam&theme=dark&sideNums=88EEF2&sideLabels=A2D5F2&dates=EBEBEB&ring=D4A5F9&fire=D4A5F9&currStreakNum=D4A5F9&currStreakLabel=D4A5F9" alt="GitHub Streak" />
 </p>
 
-## :chart_with_upwards_trend: Current Trophies
+## :trophy: Git Profile Trophy
 
 <br />
-<p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=muh-arifulislam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 ## :mailbox: Reach me out
 
