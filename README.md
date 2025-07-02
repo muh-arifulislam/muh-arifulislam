@@ -5,7 +5,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I’m **Md. Ariful Islam**, from <img src="https://cdn-icons-png.flaticon.com/512/11666/11666268.png" width="13"/><b> Cumilla, Bangladesh</b> — a Fullstack JavaScript developer (MERN) passionate about building clean, scalable, and user-friendly web applications. My mission is to create efficient, meaningful software that improves everyday life. I aim to grow as a reliable engineer and contribute to impactful, open-source projects that make a difference.</p>
+
 <h3>Things I code with</h3>
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
@@ -60,7 +61,9 @@
 <a href="https://x.com/muh_arifulislam" target="_blank" rel="noopener">
 <img height="60px" width="60px" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/x.png" alt="x logo"/>
 <a/>
-</p><br/>
+</p>
+  <h4 align="center">Email: <b>muh.arifulislam.dev@gmail.com</b></h4>
+<br/>
 
 <br />
 
