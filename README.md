@@ -1,82 +1,128 @@
 <a href="https://www.facebook.com/muh.arifulislam/">
-<img src="https://raw.githubusercontent.com/muh-arifulislam/muh-arifulislam/main/images/cover.png" />
+<img src="https://raw.githubusercontent.com/muh-arifulislam/muh-arifulislam/main/images/linkedin-cover.png" />
 </a>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+###
 
-<p>Welcome to my page! </br> I’m **Md. Ariful Islam**, from <img src="https://cdn-icons-png.flaticon.com/512/11666/11666268.png" width="13"/><b> Cumilla, Bangladesh</b> — a Fullstack JavaScript developer (MERN) passionate about building clean, scalable, and user-friendly web applications. My mission is to create efficient, meaningful software that improves everyday life. I aim to grow as a reliable engineer and contribute to impactful, open-source projects that make a difference.</p>
+<p align="left">Welcome to my page! </br> I’m <b>**Muhammad Ariful Islam**</b>, from <img src="https://cdn-icons-png.flaticon.com/512/11666/11666268.png" width="13"/><b> Cumilla, Bangladesh</b> — a <b>Fullstack JavaScript developer</b> (MERN) passionate about building clean, scalable, and user-friendly web applications. My mission is to create efficient, meaningful software that improves everyday life. I aim to grow as a reliable engineer and contribute to impactful projects that make a difference.</p>
 
-<h3>Things I code with</h3>
-<p>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-800000?style=flat-square&logo=mongoose&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="RTK Query" src="https://img.shields.io/badge/-RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img alt="Zod" src="https://img.shields.io/badge/-Zod-3B82F6?style=flat-square&logoColor=white" />
-<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" />
-<img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img alt="Stripe" src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
+###
 
-## :chart_with_upwards_trend: Current Stats
+<h2 align="left">🛠️ Things I code with!</h2>
 
-<br />
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=muh-arifulislam&theme=dark&sideNums=88EEF2&sideLabels=A2D5F2&dates=EBEBEB&ring=D4A5F9&fire=D4A5F9&currStreakNum=D4A5F9&currStreakLabel=D4A5F9" alt="GitHub Streak" />
-</p>
+###
 
-## :trophy: Git Profile Trophy
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+</div>
 
-<br />
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muh-arifulislam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://www.linkedin.com/in/muh-arifulislam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/muh_arifulislam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-## :mailbox: Reach me out
+###
 
-<br />
+<h2 align="left">📈 My Current Stats!</h2>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muh-arifulislam/" target="_blank" rel="noopener">
-<img height="60px" width="60px" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/linkedin.png" alt="linkdin logo"/>
-<a/>
-<a href="https://www.facebook.com/muh.arifulislam/" target="_blank" rel="noopener">
-<img height="60px" width="60px" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/facebook.png" alt="facebook logo"/>
-<a/>
-<a href="https://x.com/muh_arifulislam" target="_blank" rel="noopener">
-<img height="60px" width="60px" src="https://github.com/muh-arifulislam/muh-arifulislam/blob/main/images/icons/x.png" alt="x logo"/>
-<a/>
-</p>
-  <h4 align="center">Email: <b>muh.arifulislam.dev@gmail.com</b></h4>
-<br/>
+###
 
-<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muh-arifulislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muh-arifulislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## :eyes: Current overview
+###
 
-### 🔭 I’m working - As a Freelancer.
+<h2 align="left">📫 Reach me out</h2>
 
-### 🌱 I’m exploring - Advanced database strategies for enhanced performance.
+<p align="left">Send me an email to say hi, or connect via the socials.</p>
 
-### 👯 I’m eager - To collaborate on open source projects.
+- 📧 **Email:** [muh.arifulislam.dev@gmail.com](mailto:muh.arifulislam.dev@gmail.com)
+- 🌐 **Portfolio:** [https://dev-arifulislam.netlify.app/](https://dev-arifulislam.netlify.app/)
 
-### 🤔 I’m trying - To help people learn web development.
+<div align="center">
+  <a href="https://www.linkedin.com/in/muh-arifulislam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/muh.arifulislam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/muh_arifulislam" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@muh_arifulislam" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
 
-### ⚡ Fun fact - I love to make 3d website and I can speak 3 languages.
+###
 
-<br />
+<br clear="both">
+
+<h2 align="left">👀 Current overview</h2>
+
+###
+
+<img align="right" height="196" src="https://lh3.googleusercontent.com/d/1b2s46b5XE_z31GtlA3OxT3iqBq8LpZW7=w1000?authuser=1/view"  />
+
+###
+
+<h4 align="left">🔭 I’m working - As a Freelancer.</h4>
+
+###
+
+<h4 align="left">🌱 I’m exploring - Advanced database strategies for enhanced performance.</h4>
+
+###
+
+<h4 align="left">👯 I’m eager - To collaborate on open source projects.</h4>
+
+###
+
+<h4 align="left">🤔 I’m trying - To help people learn web development.</h4>
+
+###
+
+<h4 align="left">⚡ Fun fact - I love to make 3d website and I can speak 3 languages.</h4>
+
+###
